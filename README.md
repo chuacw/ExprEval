@@ -1,4 +1,4 @@
-Delphi Expression Evaluater
+Delphi Expression Evaluator
 ===========================
 
 This library is based on the prExpr.pas unit:
